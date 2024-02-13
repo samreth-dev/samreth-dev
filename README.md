@@ -3,7 +3,7 @@
 
 
 ## 🍎 About Me
-I'm an iOS Developer with 4 years of experience in developing native mobile applications.
+I'm an iOS Developer with more than 5 years of experience in developing native mobile applications.
 
 
 ## 🛠 Skills
