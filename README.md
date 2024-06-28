@@ -3,7 +3,7 @@
 
 
 ## 🍎 About Me
-I'm an iOS Developer with more than 5 years of experience in developing native mobile applications.
+I'm an iOS Developer with more than 6 years of experience in developing native mobile applications.
 
 
 ## 🛠 Skills
@@ -19,12 +19,12 @@ I'm an iOS Developer with more than 5 years of experience in developing native m
 
 
 ## 📚 Education
-🎓 I'm currently pursuing a master's degree in Computer Science in the United States.
+🎓 I recently graduated with a master's degree in Computer Science in the United States.
 
 ## 🏉 Other
 📱 I'm working on new iOS projects with the new Apple UI Framework; SwiftUI.
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.samreth.dev)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://www.samreth.dev](https://samrethkem.wixsite.com/home))
 
