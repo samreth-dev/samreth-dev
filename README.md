@@ -26,5 +26,5 @@ I'm an iOS Developer with more than 6 years of experience in developing native m
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)][https://samrethkem.wixsite.com/home]
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://samrethkem.wixsite.com/home])
 
